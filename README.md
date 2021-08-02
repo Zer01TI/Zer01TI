@@ -1,4 +1,4 @@
-# :penguin:Rogerio Sampaio #Zer01TI:penguin: 
+# :penguin:Rogério Sampaio #Zer01TI:penguin: 
 <img align="left" width="230" height="250" src="https://github.com/vaamonde/vaamonde/blob/main/vaamonde.png">
 :sound: Sou consultor de Infraestrutura de Redes de Computadores há +20 anos, minha trajetória acadêmica atual é Técnico/Tecnólogo e Pós-Graduado em Redes de Computadores com foco em Infraestrutura de Redes e Telecom. 
 
