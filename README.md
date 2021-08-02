@@ -1,4 +1,4 @@
-# :penguin:Robson Vaamonde #ProcedimentosEmTI #BoraParaPratica:penguin: 
+# :penguin:Rogerio Sampaio #Zer01TI :penguin: 
 <img align="left" width="230" height="250" src="https://github.com/vaamonde/vaamonde/blob/main/vaamonde.png">
 :sound: Sou consultor de Infraestrutura de Redes de Computadores há +20 anos, minha trajetória acadêmica atual é Técnico/Tecnólogo e Pós-Graduado em Redes de Computadores com foco em Infraestrutura de Redes e Telecom. 
 
@@ -12,9 +12,7 @@
 :office: Sempre trabalhei em projetos de consultoria de design de redes para instituições acadêmicas e financeiras com foco em Interoperabilidade de Sistemas Operacionais.
 
 :house: Sou mantenedor do blog/redes sociais Procedimentos em TI e Bora para Prática. 
-- :penguin: http://www.procedimentosemti.com.br
-- :penguin: http://www.boraparapratica.com.br
-- :penguin: http://www.vamonde.com.br
+- :penguin: https://blog.zer01ti.com.br
 
 :school: Atuando hoje como Docente/Professor dos Cursos Livres e Técnico do SENAC São Paulo (Unidade Tatuapé).
 
