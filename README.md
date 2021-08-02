@@ -11,7 +11,7 @@
 
 :office: Sempre trabalhei em projetos de consultoria de design de redes para instituições acadêmicas e financeiras com foco em Interoperabilidade de Sistemas Operacionais.
 
-:house: <img alt="Blog" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /> Sou mantenedor do blog/redes sociais Zer01TI. 
+:house: Sou mantenedor do blog/redes sociais Zer01TI. 
 - :penguin: https://blog.zer01ti.com.br
 - <img alt="Blog" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 
