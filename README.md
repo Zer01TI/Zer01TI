@@ -11,7 +11,7 @@
 
 :office: Sempre trabalhei em projetos de consultoria de design de redes para instituições acadêmicas e financeiras com foco em Interoperabilidade de Sistemas Operacionais.
 
-:house: Sou mantenedor do blog/redes sociais Procedimentos em TI e Bora para Prática. 
+:house: Sou mantenedor do blog/redes sociais Zer01TI. 
 - :penguin: https://blog.zer01ti.com.br
 
 :school: Atuando hoje como Docente/Professor dos Cursos Livres e Técnico do SENAC São Paulo (Unidade Tatuapé).
